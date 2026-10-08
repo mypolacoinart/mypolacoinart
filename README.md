@@ -1,8 +1,8 @@
-# welcome to my profile!
+# welcome to my profile.
 
 #### About me
 
-I'm an Computer Engineering student at UFRJ, and I am also pursuing a Bachelor’s degree in Mathematics.
+I'm a Computer Engineering student at UFRJ looking for a place to put my silly personal projects.
 
 #### Languages and tools
 
