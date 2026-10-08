@@ -1,6 +1,4 @@
-<p align="center">
-  <h3> welcome to my profile. </h3>
-</p>
+###welcome to my profile!
 
 #### About me
 
