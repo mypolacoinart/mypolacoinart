@@ -1,5 +1,6 @@
 # welcome to my profile.
 
+<p>
                                         ::::
                                    ---~====++++++=~
                                =+*+++++****o*ooooxx*=
@@ -40,7 +41,7 @@
  :-=*oox#%&&&&&&#o=-;;,''''`^^^^^,,,,:::::;;;;::::;;;--;;---~~==+**++~~~=o
 ,;~+*ox#%%%&&&&***~;;;,''``^,,,,,:::::;;;;;;--;;;;-~~~--~~~~~~--~~-~~-;-~+
 ;-=*oox##%&&&&o=*+-;;;^```^^,,,,,::;;-------------~~~~~~~~~---------;;:-~+
-
+</p>
 #### About me
 
 I'm a Computer Engineering student at UFRJ looking for a place to put my silly personal projects.
