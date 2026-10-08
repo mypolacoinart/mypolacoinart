@@ -1,10 +1,10 @@
 <p align="center">
-  welcome to my profile.
+  ###welcome to my profile.
 </p>
 
 #### About me
 
-I am an Electronic and Computer Engineering student at the Federal University of Rio de Janeiro (UFRJ), and I am also pursuing a Bachelor’s degree in Mathematics.
+I'm an Computer Engineering student at UFRJ, and I am also pursuing a Bachelor’s degree in Mathematics.
 
 #### Languages and tools
 
@@ -13,7 +13,5 @@ I am an Electronic and Computer Engineering student at the Federal University of
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white">
   <img src="https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white">
-  <img src="https://img.shields.io/badge/archlinux-%231793D1.svg?style=for-the-badge&logo=archlinux&logoColor=white">
-  <img src="https://img.shields.io/badge/Gentoo-%2354487A.svg?style=for-the-badge&logo=gentoo&logoColor=white)">
   <img src="https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white">
 </p>
