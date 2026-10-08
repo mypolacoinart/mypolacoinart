@@ -5,21 +5,20 @@
 
 ##### Languages
 
-<p align="center">
+<p>
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white">
+  <img src="https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white">
 </p>
 
-##### Tools
+##### OS
 <p>
-  <img src="..." alt="Git">
-  <img src="..." alt="LaTeX">
+  <img src="https://img.shields.io/badge/archlinux-%231793D1.svg?style=for-the-badge&logo=archlinux&logoColor=white">
+  <img src="https://img.shields.io/badge/Gentoo-%2354487A.svg?style=for-the-badge&logo=gentoo&logoColor=white)">
 </p>
 
-##### Environment
+##### EDEs
 <p>
-  <img src="..." alt="Linux">
-  <img src="..." alt="Arch Linux">
-  <img src="..." alt="Gentoo Linux">
+  <img src="https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white">
 </p>
