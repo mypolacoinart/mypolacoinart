@@ -1,10 +1,5 @@
 # welcome to my profile.
 
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/u/333605147?s=400&u=21027a5a9d0c15d6336dea792e8f6c207ebf6bd9&v=4" /><br>
-  mypolacoinart
-</p>
-
 #### About me
 
 I'm a Computer Engineering student at UFRJ looking for a place to put my silly personal projects.
